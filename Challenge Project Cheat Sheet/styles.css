@@ -1,0 +1,48 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: lightskyblue;
+    color: midnightblue;
+}
+
+img{
+    width: 400px;
+}
+
+body {
+    font-size: large;
+}
+
+h1 {
+    font-style: bold;
+    font-size: 50px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+table{
+    font-size: large;
+    border: 2px solid mediumblue;
+    min-width: 300px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+thead{
+    font-size: 20px;
+}
+th{
+    border: 1px solid mediumblue;
+    background-color: skyblue;
+}
+td{
+    border: 1px solid mediumblue;
+    background-color: lightblue;
+}
+
+.tag{
+    font-family: monospace;
+    background-color: aliceblue;
+}
